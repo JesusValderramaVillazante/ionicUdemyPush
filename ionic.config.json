@@ -1,5 +1,7 @@
 {
   "name": "ionicUdemyPush",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
